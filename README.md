@@ -2,6 +2,6 @@
 
  - Ejemplo práctico trabajando con RandomAccessFile e índices para guardar "objetos" en ficheros.
 
-##Tecnología Utilizada
+## Tecnología Utilizada
 
  - JDK 11
